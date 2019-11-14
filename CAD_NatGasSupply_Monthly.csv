@@ -1,4 +1,4 @@
-﻿Month,Gross withdrawals,Marketable production 3,Imports 4,Residential consumption,Industrial consumption 5,Commercial consumption,Exports 6,Opening inventory,Closing inventory,Inventory change
+﻿Month,Gross withdrawals,Marketable production,Imports,Residential consumption,Industrial consumption,Commercial consumption,Exports,Opening inventory,Closing inventory,Inventory change
 Jan-16,"17,467,233.80","14,289,542.70","2,070,935.60","2,788,254.00","6,342,124.70","1,934,920.00","7,309,705.00","26,136,211.90","22,220,401.00","-3,915,810.90"
 Feb-16,"16,162,352.60","13,607,932.10","1,884,700.10","2,384,213.00","5,712,100.10","1,767,570.00","6,676,732.00","22,220,401.00","20,472,651.70","-1,747,749.30"
 Mar-16,"16,872,417.50","14,421,808.50","2,134,173.00","2,028,989.00","5,956,699.50","1,704,433.00","6,486,642.00","20,472,651.70","21,006,678.20","534,026.50"
